@@ -7,6 +7,6 @@ To start new project:
 2) init new npm project in folder:
 $ cd /d *your-path-here*
 $ npm init
-$ npm install gulp
+$ npm install
 $ gulp
 3) Use "$ gulp build" for creating production version for your frontend template
